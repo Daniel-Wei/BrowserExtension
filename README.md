@@ -1,1 +1,1 @@
-# BrowserExtension
+# Chrome Browser Extension
